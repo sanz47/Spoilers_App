@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#706fd3">
+
+
+    <Button
+        android:id="@+id/Helpsection"
+        android:layout_width="460dp"
+        android:layout_marginStart="50dp"
+        android:layout_height="50dp"
+        android:background="#636e72"
+        android:text="Help Section"
+        android:textAlignment="center" />
+
+    <Button
+        android:id="@+id/go_back"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="@drawable/back"
+        android:textAlignment="center" />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="#706fd3">
+
+            <ImageView
+                android:id="@+id/unknown"
+                android:layout_width="369dp"
+                android:layout_height="417dp"
+                android:layout_marginTop="50dp"
+                android:src="@drawable/unknown" />
+
+        <ImageView
+
+            android:id="@+id/whatever"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="350dp"
+            android:src="@drawable/whatever" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="350dp"
+                android:layout_marginTop="920dp"
+                android:textColor="@color/white"
+                android:textSize="20sp"
+                android:text="Search by Movie\n
+Click the Search Icon > Write the content name in the text box>> Click Movies
+\n\n
+Search by Show\n
+Click the Search Icon > Write the content name in the text box > Click Show
+\n\n
+Track Movies\n
+Go to a movie > Toggle the switch to  watched
+\n\n
+Track Shows\n
+Go to a show > input current episode you’re on
+\n\n
+Content Count / Watch Time\n\n
+Tap on the button on homepage\n\n
+
+Support\n
+Go to the hamburger menu on right\n
+\n
+For any issue report to spoilers_sad@gmail.com"/>
+        </RelativeLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

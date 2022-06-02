@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">wTh</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="s">S</string>
+    <string name="recently_watched_series">Recently Watched Series</string>
+    <string name="recently_watched_movies">Recently Watched Movies</string>
+    <string name="tv_series">TV Series</string>
+    <string name="movies">Movies</string>
+    <string name="suggestions">Suggestions</string>
+    <string name="home_nav">home</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="spoilers">SPOILERS</string>
+    <string name="login">login</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="password">Password</string>
+    <string name="attempts_left">Attempts Left:</string>
+    <string name="Login">Login</string>
+    <string name="cancel">Cancel</string>
+    <string name="first_name">First Name</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_homepage">Homepage</string>
+    <string name="title_activity_hum">hum</string>
+    <string name="episodes_count">Episodes Count</string>
+    <string name="dropdown_menu_3">DropDown Menu 3</string>
+    <array name="courses">
+        <item>English</item>
+        <item>Bangla</item>
+        <item>Physics</item>
+    </array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

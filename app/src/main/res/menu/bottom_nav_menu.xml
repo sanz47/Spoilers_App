@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/action_search"
+        app:showAsAction="ifRoom|collapseActionView"
+        android:title="Search"
+        android:icon="@drawable/searchbar"
+        app:actionViewClass="androidx.appcompat.widget.SearchView">
+    </item>
+    <item
+        
+        android:id="@+id/home"
+        android:icon="@drawable/home_nav"
+        android:title="@string/home" />
+
+
+
+    <item
+        android:id="@+id/nav_movie"
+        android:icon="@drawable/reel"
+        android:title="Watchlist" />
+
+    <item
+        android:id="@+id/nav_tv"
+        android:icon="@drawable/tv_show"
+        android:title="Wishlist" />
+    <item
+        android:id="@+id/help"
+        android:icon="@drawable/help"
+        android:title="Help" />
+    <item
+        android:id="@+id/suggestions"
+        android:icon="@drawable/suggestion_navigation"
+        android:title="Log out" />
+
+</menu>

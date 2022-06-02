@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "692567554624",
+    "project_id": "spoilers-75b08",
+    "storage_bucket": "spoilers-75b08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692567554624:android:5a38c86937c97a9a333da5",
+        "android_client_info": {
+          "package_name": "com.example.vallagtesena"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692567554624-5u0qhshehscod1a70694ppql26sai10r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHn69jkryeGaiCNGvOohsOEZC9X7xz6QU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692567554624-5u0qhshehscod1a70694ppql26sai10r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
